@@ -3,6 +3,8 @@ print("what i do")
 print("what i do")
 print("what i do")
 print("what i do")
+
 print("what i do")
+print("what i")
 print("what i do")
 print("what i do")
